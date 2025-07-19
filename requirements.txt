@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+arize
+requests
+python-dotenv
+# groq (install if Groq API client is available) 
